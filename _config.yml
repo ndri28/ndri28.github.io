@@ -1,8 +1,14 @@
 title: "Byunghyun Dev Blog"
 description: "백엔드와 서버를 공부하며 기록하는 개발 블로그"
+
 theme: minima
 
-author:
-  name: "Jang Byunghyun"
-
 lang: ko-KR
+
+author: Jang Byunghyun
+
+email: ""
+
+github_username: ndri218
+
+show_excerpts: true
